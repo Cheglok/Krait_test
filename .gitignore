@@ -1,0 +1,6 @@
+.idea
+node_modules
+css/styles.css
+css/styles.min.css
+css/styles.min.css.map
+js/script.min.js
